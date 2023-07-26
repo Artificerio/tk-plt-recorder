@@ -64,7 +64,6 @@ class App:
     def update_dir(self):
         self.files = [os.path.basename(f.path) for f in os.scandir(APP_PATH) if f.is_file()]
         self.update(self.files)
-        print(self.files)
     
     def open_explorer(self):
         file_to_open = APP_PATH + '/' + self.my_listbox.get(ACTIVE)
