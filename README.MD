@@ -8,5 +8,5 @@ pip install -r requirements.txt
 python main.py
 ```
 # Usage
-<video src="https://github.com/Artificerio/tk-plt-recorder/blob/main/usage.mov" width="800" height="600">
-</video>
+watch the video :
+https://github.com/Artificerio/tk-plt-recorder/blob/main/usage.mov
