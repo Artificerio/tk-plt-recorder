@@ -8,4 +8,4 @@ pip install -r requirements.txt
 python main.py
 ```
 # Usage
-<img src="https://github.com/Artificerio/tk-plt-recorder/blob/main/usage.gif" width="800" height="600" />
+<img src="" width="800" height="600" />
